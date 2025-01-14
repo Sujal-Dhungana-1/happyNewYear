@@ -1,2 +1,2 @@
-# JavaScript-eg
+# happyNewYear
 Some tutorials and examples using js
