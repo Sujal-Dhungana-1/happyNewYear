@@ -1,2 +1,2 @@
 # happyNewYear
-Some tutorials and examples using js
+access the website ==> happynewyear-25.netlify.app
